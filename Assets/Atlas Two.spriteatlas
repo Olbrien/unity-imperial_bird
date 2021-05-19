@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas Two
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dfc14cec9c046604095e7a34584516ac, type: 3}
+    totalSpriteSurfaceArea: 1017428
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7d7070118583c5446b81471c807a718e, type: 3}
+  - {fileID: 4377000266095400273, guid: d598d941d88c58c4ba76acc01ddff114, type: 3}
+  - {fileID: 2563398518050707336, guid: d598d941d88c58c4ba76acc01ddff114, type: 3}
+  - {fileID: 21300000, guid: d8309ec16acaa534095e07532c21b3dc, type: 3}
+  - {fileID: 21300000, guid: f7e1f6e836899274397e163b26e2d5a1, type: 3}
+  - {fileID: 21300000, guid: b9443fb90a1d7bc4d94d00593c0537f4, type: 3}
+  - {fileID: 21300000, guid: 5653950bd9a63fe459ff5a8762112f9d, type: 3}
+  - {fileID: 21300000, guid: 12935c8b97b68414a9cd78f517dc969a, type: 3}
+  - {fileID: 21300000, guid: 48cd80cb040efa243b622aecac2e7c73, type: 3}
+  - {fileID: 21300000, guid: af86e64c72ce71a489e14f9648716294, type: 3}
+  - {fileID: 21300000, guid: 1cd0a17c5c222694d851259ae24012e8, type: 3}
+  - {fileID: 21300000, guid: ecde582d11cf89545b2fbf6e14a28dbe, type: 3}
+  - {fileID: 21300000, guid: 4ac9a88f88b610943a044fa4c88e81b8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ButtonAcceleratorUpSprite
+  - health1_1
+  - health1_0
+  - frame-8
+  - frame-1
+  - frame-2
+  - frame-5
+  - frame-6
+  - frame-4
+  - frame-7
+  - frame-3
+  - ButtonArrowUpSprite
+  - Wall7
+  m_Tag: Atlas Two
+  m_IsVariant: 0
